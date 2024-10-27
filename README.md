@@ -1,0 +1,2 @@
+# ubuntu-kurulum
+Ubuntu Kurulumu
